@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+nav {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+  list-style: none;
+}
+
+#copyright {
+  text-align: left;
+}
