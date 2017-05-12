@@ -51,4 +51,6 @@ a {
 header, #nyc {
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: white;
+  background-position: right;
+  background-size: auto;
 }
